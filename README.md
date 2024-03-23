@@ -11,7 +11,7 @@ Predicting the winner of soccer games in the (EPL) using ML.
 - VS code
 - Python
 - Pyrhon packagaes:
->   pandas
->   requests
->   BeautifulSoup
->   skit_learn
+  - pandas
+  - requests
+  - BeautifulSoup
+  - skit_learn
