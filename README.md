@@ -14,4 +14,4 @@ Predicting the winner of soccer games in the (EPL) using ML.
   - pandas
   - requests
   - BeautifulSoup
-  - skit_learn
+  - scikit-learn
